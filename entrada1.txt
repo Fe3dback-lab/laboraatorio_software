@@ -1,0 +1,15 @@
+lienzo(800, 600);
+
+rectangulo mar(0, 500, 800, 100, azul); 
+
+rectangulo casco(300, 450, 200, 50, marron);
+triangulo casco1(250, 450, 300, 450, 300, 500, marron);
+triangulo casco2(550, 450, 450, 450, 500, 500, marron);
+
+cuadrado torre1(370, 420, 30, gris);
+cuadrado torre2(400, 420, 30, gris);
+
+triangulo vela(300, 400, 402, 200, 500, 400, blanco);
+rectangulo mastil(400, 200, 4, 220, negro);
+
+circulo sol(680, 5, 100, amarillo);
